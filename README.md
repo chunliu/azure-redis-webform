@@ -1,2 +1,2 @@
 # azure-redis-webform
-A sample of using Azure Redis cache with ASP.NET web forms. 
+This sample code demos how to use [RedisSessionStateProvider](https://github.com/Azure/aspnet-redis-providers) and StackExchange.Redis in an ASP.NET WebForm project. 
